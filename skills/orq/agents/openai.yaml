@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex + MiMo: ORQ"
+  short_description: "Coordinate blocks with review and acceptance per task"
+  default_prompt: "Use $orq to split this feature into blocks for MiMo and review and test each delivery from Codex."

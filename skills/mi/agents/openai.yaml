@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex + MiMo: one task"
+  short_description: "Bounded task, reviewed patch, and Codex tests"
+  default_prompt: "Use $mi to prepare a bounded task for MiMo and review its patch with independent tests."
